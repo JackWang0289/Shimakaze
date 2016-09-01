@@ -1,2 +1,3 @@
 2016/8/23 Today first contact about Git and program. 
 2016/8/26 Today we present a powerpoint of all kinds of engeneering. 
+2016/8/30 Today we finish our posters of engeneering and closely move into Lego EV3. 
